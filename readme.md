@@ -1,3 +1,19 @@
+# Audiobookshelf Mobile App · personal fork
+
+> **Fork and attribution notice:** This is Ansel Santosa's fork of [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app). The upstream project belongs to its respective maintainers. This section documents my submitted contributions; it is not a claim of authorship of the upstream project.
+
+## My upstream contributions
+
+- **[Fix Play Next Episode for serial podcasts](https://github.com/advplyr/audiobookshelf-app/pull/1775)** · Merged · January 2026. Corrected the next-episode selection order so serial podcasts advance from oldest unfinished rather than newest.
+- **[Use chronological default ordering for serial podcasts](https://github.com/advplyr/audiobookshelf-app/pull/1455)** · Merged · January 2025. Changed initial episode sorting for serial podcasts to publication date ascending, while preserving newest-first defaults for episodic shows.
+
+
+
+
+---
+
+## Original upstream documentation
+
 # Audiobookshelf Mobile App
 
 Audiobookshelf is a self-hosted audiobook and podcast server.
